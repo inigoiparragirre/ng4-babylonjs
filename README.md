@@ -1,4 +1,4 @@
-# Ng4-Babylon
+# Ng4-Babylonjs
 
 An Angular 4 and Babylonjs boilerplate for generating apps based on 3D WebGL and Angular with Typescript.
 
