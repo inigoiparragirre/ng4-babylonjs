@@ -1,4 +1,8 @@
-# Angular2Babylonjs
+# Ng4-Babylon
+
+An Angular 4 and Babylonjs boilerplate for generating apps based on 3D WebGL and Angular with Typescript.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
